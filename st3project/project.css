@@ -1,0 +1,26 @@
+#main { 
+    text-align: center;
+    
+  }
+  #dropdown { 
+    background-color: orange;
+    border: none;
+    margin-top: 20px;
+  }
+  .text {
+    margin-top: 100px;
+  }
+  #img {
+    margin:auto;
+  }
+  body{
+    background: url("https://digitaladdictsblog.com/wp-content/uploads/2019/01/shutterstock_295846730.jpg");
+    width: auto;
+    /* height: auto; */
+    color:white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* min-height: 100%; */
+  }
+  
+  
